@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm whx
 
-<!--
-**whxBUPT/whxBUPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer interested in **Go, Python, and AI Agents**.
 
-Here are some ideas to get you started:
+I'm currently exploring how LLMs and Agents can be applied to real-world software engineering, while becoming more active in open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- **Languages:** Go, Python
+- **Backend:** MySQL, Redis
+- **AI:** LLM Applications, AI Agents
+- **Tools:** Git, Docker, Linux
+
+## Currently
+
+- Building AI Agent related projects
+- Learning from high-quality open-source projects
+- Looking for opportunities to contribute to open source
+
+## Interests
+
+**AI Agents · Backend Engineering · Go · Python · Open Source**
